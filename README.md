@@ -1,3 +1,4 @@
 # hello-world
 Test repository
-Testing out how github works
+Im testing out github to see how it works
+
